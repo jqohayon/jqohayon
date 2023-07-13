@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jqohayon
+- 👋 Hi, I’m @jacqueline
 - 👀 I’m interested in > data analytics
 - 🌱 I’m currently learning > SQL > Python ? Oracle SQL
 - 💞️ I’m looking to collaborate on Databases
